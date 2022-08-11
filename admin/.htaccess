@@ -1,0 +1,13 @@
+<Files ".htaccess">
+    Order allow,deny
+    Deny from all
+</Files>
+<Files ".htpasswd">
+    Order allow,deny
+    Deny from all
+</Files>
+
+AuthType Basic
+AuthName "Password Required"
+Require valid-user
+AuthUserFile "/home/blocicat/ScapeGoat/admin/.htpasswd"

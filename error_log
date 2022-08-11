@@ -1,0 +1,10 @@
+[05-Oct-2021 09:39:02 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/blocicat/ScapeGoat/generator/db-connect.php on line 3
+[05-Oct-2021 09:39:02 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/blocicat/ScapeGoat/generator/functions.php on line 6
+[05-Oct-2021 09:39:05 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/blocicat/ScapeGoat/generator/db-connect.php on line 3
+[05-Oct-2021 09:39:05 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/blocicat/ScapeGoat/generator/functions.php on line 6
+[05-Oct-2021 09:39:20 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/blocicat/ScapeGoat/generator/db-connect.php on line 3
+[05-Oct-2021 09:39:20 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/blocicat/ScapeGoat/generator/functions.php on line 6
+[05-Oct-2021 09:39:30 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/blocicat/ScapeGoat/generator/db-connect.php on line 3
+[05-Oct-2021 09:39:30 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/blocicat/ScapeGoat/generator/functions.php on line 6
+[25-Oct-2021 05:41:40 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/blocicat/ScapeGoat/generator/db-connect.php on line 3
+[25-Oct-2021 05:41:40 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/blocicat/ScapeGoat/generator/functions.php on line 6
